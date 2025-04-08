@@ -77,6 +77,7 @@ Identifies potential equipment issues by recognizing unusual patterns across mul
 
 ## ⚙️ Configuration Guide
 
+Bayesian sensors in Home Assistant follow this basic structure:
 
 ```yaml
 binary_sensor:
@@ -91,7 +92,7 @@ binary_sensor:
         platform: 'state'
         to_state: 'on'  # Or other relevant state
 ```
-Bayesian sensors in Home Assistant follow this basic structure:
+The following is a overall solution diagram
 
 ![diagram](https://github.com/sepse/Bayesian-Sensing/blob/de4aea49875f13ce3a66ad06448ad995664b39b6/Graphics/diagram.jpg)
 
