@@ -2,7 +2,6 @@
 
 ## 🔄 Transforming sensor networks into contextual understanding
 
-![Bayesian Sensing Logo](https://api.placeholder.com/400/320)
 
 ---
 
